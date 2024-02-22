@@ -8,6 +8,7 @@ int main(){
   printf("Mackenzie - FCI\n");
   printf("Ciência da Computação\n");
   printf("Algortimos e Programação II\n");
+  printf("A FCI foi fundada em 1970\n");
   
 
   return 0;
